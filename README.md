@@ -1,4 +1,4 @@
-# DCGAN模型生成人脸模型
+# DCGAN生成人脸模型
 
 本项目用[DCGAN（Deep Convolution Generative Adversarial Nets）模型](https://arxiv.org/pdf/1511.06434.pdf)，在[CelebA人脸数据集](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)上训练，使模型可生成新的人脸图像。
 
